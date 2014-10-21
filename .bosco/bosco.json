@@ -1,0 +1,34 @@
+{
+  "progress": "verbose",
+  "css": {
+    "clean": {
+      "enabled": true,
+      "options": {
+        "keepBreaks": false,
+        "processImport": true
+      }
+    }
+  },
+  "js": {
+    "uglify": {
+      "mangle": false,
+      "outputOptions": {
+        "semicolons": false
+      },
+      "compressorOptions": {}
+    }
+  },
+  "github": {
+    "user": "cliftonc",
+    "organization": "cliftonc",
+    "repos": [
+      "tes/bosco",
+      "tes/compoxure",
+      "cliftonc/bosco-redis",
+      "cliftonc/calipso"
+    ]
+  },
+  "events": {
+    "last-morning-run": "2014-10-16T08:58:49+01:00"
+  }
+}
