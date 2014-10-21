@@ -25,7 +25,8 @@
       "tes/bosco",
       "tes/compoxure",
       "cliftonc/bosco-redis",
-      "cliftonc/calipso"
+      "cliftonc/bosco-static",
+      "cliftonc/compoxure-talk"
     ]
   },
   "events": {
